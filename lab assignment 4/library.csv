@@ -1,0 +1,4 @@
+type,title,author,isbn,status
+Book,economics,Adam smith,1234,available
+DigitalBook,English ,Will jacks,321,available
+Book,Science ,Newton ,098123,available
